@@ -9,10 +9,10 @@
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://x.com/sethsallies.com">
-      <img src="https://img.shields.io/badge/X-My%20Profile-EA4335?style=for-the-badge&logo=x&logoColor=white" />
+      <img src="https://img.shields.io/badge/X-My%20Profile-00ff22?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="https://seth.spook.bio">
-      <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-Website-0086ff?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
 
