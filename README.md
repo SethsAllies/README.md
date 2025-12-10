@@ -48,23 +48,25 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+![GitHub Stats](https://brurhlvszgnfgrllvown.supabase.co/functions/v1/github-stats?username=sethsallies&type=languages&theme=highcontrast)
+
 ### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+</div
+>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Repositories
 
 | Project | Description | Tech |
 |--------|-------------|------|
 | **[RoStats](https://github.com/sethsallies/rostats)** | A powerful backend API for real-time data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
 | **[DiscordForge](https://github.com/sethsallies/DisordForge)** | A modern dashboard built with React & TypeScript. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
 
-> 🔎 _More projects available on my [GitHub](https://github.com/sethsallies)!_
+> 🔎 _More repositories available on my [GitHub](https://github.com/sethsallies)!_
 
 ---
 
@@ -72,26 +74,7 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sethsallies&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethsallies&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 📫 Contact Me
-
-<div align="center">
-
-<a href="mailto:sethsallies@example.com">
-  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/sethsallies">
-  <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sethsallies">
-  <img src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="180em" src="![GitHub Stats](https://brurhlvszgnfgrllvown.supabase.co/functions/v1/github-stats?username=sethsallies&theme=highcontrast)" />
 
 </div>
 
