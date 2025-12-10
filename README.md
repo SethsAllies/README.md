@@ -8,14 +8,11 @@
     <a href="https://github.com/sethsallies">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:sethsallies@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://x.com/sethsallies.com">
+      <img src="https://img.shields.io/badge/X-My%20Profile-EA4335?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://sethsallies.com">
+    <a href="https://seth.spook.bio">
       <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/sethsallies/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
 
@@ -50,8 +47,6 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
