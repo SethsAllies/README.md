@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
-  <h1>👋 Hi, I'm <strong>Seth Sallies</strong></h1>
+  <h1>👋 Hi, I'm <strong>Seth's Allies</strong></h1>
   <h3>Software Engineer • Open-Source Enthusiast </h3>
 
   <!-- SOCIAL BUTTONS -->
