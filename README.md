@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
   <h1>👋 Hi, I'm <strong>Seth Sallies</strong></h1>
-  <h3>Software Engineer • Open-Source Enthusiast • Problem Solver</h3>
+  <h3>Software Engineer • Open-Source Enthusiast </h3>
 
   <!-- SOCIAL BUTTONS -->
   <p>
