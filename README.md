@@ -74,7 +74,7 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 
 <div align="center">
 
-<img height="180em" src="![GitHub Stats](https://brurhlvszgnfgrllvown.supabase.co/functions/v1/github-stats?username=sethsallies&theme=highcontrast)" />
+<img height="180em" src="![GitHub Stats](https://brurhlvszgnfgrllvown.supabase.co/functions/v1/github-stats?username=sethsallies&theme=tokyonight)" />
 
 </div>
 
