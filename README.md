@@ -1,11 +1,14 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
-  <h1>👋 Hi, I'm <strong>Seth's Allies</strong></h1>
+  <h1>👋 Hi, I'm <strong>Seth</strong></h1>
   <h3>Software Engineer • Open-Source Enthusiast </h3>
 
   <!-- SOCIAL BUTTONS -->
   <p>
     <a href="https://github.com/sethsallies">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=blue" />
+    </a>
+    <a href="https://github.com/alliedseth">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://x.com/sethsallies.com">
@@ -18,8 +21,8 @@
 
   <!-- PROFILE STATS -->
   <p>
-    <img src="https://img.shields.io/github/followers/sethsallies?style=social" /> 
-    <img src="https://img.shields.io/github/stars/sethsallies?style=social" />
+    <img src="https://img.shields.io/github/followers/alliedseth?style=social" /> 
+    <img src="https://img.shields.io/github/stars/alliedseth?style=social" />
   </p>
 
   <!-- DECORATIVE LINE -->
@@ -48,7 +51,7 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![GitHub Stats](https://brurhlvszgnfgrllvown.supabase.co/functions/v1/github-stats?username=sethsallies&type=languages&theme=highcontrast)
+![GitHub Stats](https://brurhlvszgnfgrllvown.supabase.co/functions/v1/github-stats?username=alliedseth&type=languages&theme=highcontrast)
 
 ### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -63,8 +66,8 @@ I'm a passionate developer building **efficient backend systems**, **polished fr
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **[RoStats](https://github.com/sethsallies/rostats)** | A powerful backend API for real-time data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
-| **[OldDiscordForge](https://github.com/sethsallies/OldDisordForge)** | A modern dashboard built with React & TypeScript. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
+| **[RoStats](https://github.com/Neuliko/rostats)** | A powerful backend API for real-time data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
+| **[Quilox](https://github.com/Neuliko/Discord-Bot)** | A modern discord bot with a dashboard built with React & TypeScript. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
 
 > 🔎 _More repositories available on my [GitHub](https://github.com/sethsallies)!_
 
